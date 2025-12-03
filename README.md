@@ -18,13 +18,17 @@ The Task is split into three section:
 
 # Project Highlights:
 <br>
-Usage library and skills.  
+
+<img width="1491" height="780" alt="image" src="https://github.com/user-attachments/assets/78c3159b-4e7e-4b54-a5a1-b390e37091d1" />
+
 
 # Key Findings:
 <br>
-Result:
-<img width="1327" height="734" alt="image" src="https://github.com/user-attachments/assets/cc9d480b-6584-4fe1-8551-e8215980a586" />
 
+### Result:
+. As the dashboard had been establish, some interesting pattern can be uncover:
+
+### 1. 
 
 
 # Skills Utilized:
