@@ -21,7 +21,27 @@ The Task is split into three section:
 
 <img width="1491" height="780" alt="image" src="https://github.com/user-attachments/assets/78c3159b-4e7e-4b54-a5a1-b390e37091d1" />
 
+The Establishment of multiples responsive tables and charts, with actives set up relational model.
 
+Including:
+
+. Total Flight.
+
+. Delayed Flight.
+
+. Cancel Flight.
+
+. Total Flight by City.
+
+. % Delayed by Airline.
+
+. Cancelled flights by Cancellation Description.
+
+. % Cancellation by Day of Week.
+
+. Flight status.
+
+. Total flight by status.
 # Key Findings:
 <br>
 
@@ -58,6 +78,8 @@ If you use the data from the % Delayed by Airline, choose American Eagles, you s
 
 # Skills Utilized:
 <br>
+
+PowerBI.
 
 # Conclusion:
 <br>
