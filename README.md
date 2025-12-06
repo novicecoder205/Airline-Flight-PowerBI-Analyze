@@ -28,7 +28,32 @@ The Task is split into three section:
 ### Result:
 . As the dashboard had been establish, some interesting pattern can be uncover:
 
-### 1. 
+### 1. Data drawn from Dallas Airport.
+<img width="457" height="388" alt="image" src="https://github.com/user-attachments/assets/5aed7e3d-8d07-4d03-a01b-1f43f87bcab0" />
+
+. Selecting the bar for Dallas airport, show us that there are around 239.551 flight taking off from there.
+
+<img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/85d0e772-0fe0-4a51-beee-a387e1d23586" />
+
+. Among those flight 57.2% are on time, 40.3% are delay and 2.6% are cancelled.
+
+<img width="438" height="370" alt="image" src="https://github.com/user-attachments/assets/ce36e3d8-e58c-452e-814a-e42a4d8a8cc8" />
+
+. In those results, JetBlue Airways brands is the most delayed, and Alaska Airlines get delayed the least.
+
+<img width="424" height="210" alt="image" src="https://github.com/user-attachments/assets/95f52f1a-7113-4cd6-bc49-fa2f433914a0" />
+
+. With Cancellation rate seem to be higher overall during Monday and Sunday.
+
+<img width="437" height="183" alt="image" src="https://github.com/user-attachments/assets/05b193a7-8716-4b18-bd6e-588e2a132af0" />
+
+. Cancelled flight biggest reason are weather according to this data.
+
+### 2. Data drawn from American Eagles airline:
+
+<img width="881" height="601" alt="image" src="https://github.com/user-attachments/assets/df2a6d87-dca2-4016-86e8-5950b17455e4" />
+
+If you use the data from the % Delayed by Airline, choose American Eagles, you see that, that brand total numbers of flights is 118.4k, with the highest amount of flight taking off from Chicago and Dllas Fort Worth.
 
 
 # Skills Utilized:
