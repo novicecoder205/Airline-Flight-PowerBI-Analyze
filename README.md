@@ -25,28 +25,39 @@ The Establishment of multiples responsive tables and charts, with actives set up
 
 Including:
 
-. Total Flight.
+### Total Flight:
 
-. Delayed Flight.
+. Including total flight data, and a line chart with the Month data on the X-axis and total flight on the y-axis, with the tool tip being %-On-Time, in order to display "Total Flights by Month".
 
-. Cancel Flight.
+### Delayed Flight:
 
-. Total Flight by City.
+. Including delayed flight data, and a line chart with the Month data on the X-axis and delayed flights on the y-axis, with the tool tip being %-Delayed, in order to display "Delayed Flights by Month".
 
-. % Delayed by Airline.
+### Canceled Flight:
+
+. Including canceled flight data, and a line chart with the Month data on the X-axis and canceled flights on the y-axis, with the tool tip being %-Canceled, in order to display "Canceled Flights by Month".
+
+### Total Flight by City:
+
+. Including City data for the y-axis and Total Flights data for the x-axis.
+
+### Delayed by Airline:
+
+. 
 
 . Cancelled flights by Cancellation Description.
 
 . % Cancellation by Day of Week.
 
-. Flight status.
+### Flight status:
+
+. This tabs include the three data of %-On-Time, %-Delayed, %-Canceled.
 
 . Total flight by status.
-# Key Findings:
-<br>
 
-### Result:
-. As the dashboard had been establish, some interesting pattern can be uncover:
+# Result:
+<br>
+. By interaction with the finish dashboard, with all it's relation had been establish, some interesting pattern can be uncover:
 
 ### 1. Data drawn from Dallas Airport.
 <img width="457" height="388" alt="image" src="https://github.com/user-attachments/assets/5aed7e3d-8d07-4d03-a01b-1f43f87bcab0" />
@@ -74,12 +85,6 @@ Including:
 <img width="881" height="601" alt="image" src="https://github.com/user-attachments/assets/df2a6d87-dca2-4016-86e8-5950b17455e4" />
 
 If you use the data from the % Delayed by Airline, choose American Eagles, you see that, that brand total numbers of flights is 118.4k, with the highest amount of flight taking off from Chicago and Dllas Fort Worth.
-
-
-# Skills Utilized:
-<br>
-
-PowerBI.
 
 # Conclusion:
 <br>
