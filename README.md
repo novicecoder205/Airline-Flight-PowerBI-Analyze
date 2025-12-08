@@ -19,6 +19,9 @@ The Task is split into three section:
 # Project Highlights:
 <br>
 
+<img width="722" height="494" alt="image" src="https://github.com/user-attachments/assets/d16f2378-393c-4e53-a3be-18f5e240b596" />
+
+
 <img width="1491" height="780" alt="image" src="https://github.com/user-attachments/assets/78c3159b-4e7e-4b54-a5a1-b390e37091d1" />
 
 The Establishment of multiples responsive tables and charts, with actives set up relational model.
@@ -43,17 +46,26 @@ Including:
 
 ### Delayed by Airline:
 
-. 
+. Including Airline data for the y-axis and %-delayed data for the x-axis.
 
-. Cancelled flights by Cancellation Description.
+### Cancelled flights by Cancellation Description:
 
-. % Cancellation by Day of Week.
+. Select this fields by choosing the Cancellation Description data, and the values of cancelled flight through a pie chart. 
+
+### % Cancellation by Day of Week:
+
+. Using the columns chart, where the x-axis is Day_Of_Week data, and y-Axis is % Delayed. 
 
 ### Flight status:
 
 . This tabs include the three data of %-On-Time, %-Delayed, %-Canceled.
 
-. Total flight by status.
+### Total flight by status:
+
+. This use the Total Flight data and Status data, which is creates as an equation through adding a conditional columns, with the following condition:
+
+<img width="989" height="456" alt="image" src="https://github.com/user-attachments/assets/17ac4b56-4273-40a0-bb8c-126f342ff1a1" />
+
 
 # Result:
 <br>
